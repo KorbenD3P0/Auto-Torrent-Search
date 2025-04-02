@@ -1,7 +1,7 @@
 # Auto-Torrent-Search-Template
  Automate your torrent searches in a few steps!
 
-Update your email, password/App password, and torrent search inquiry in the .py file
+Save the repo to your computer and then update your email, password/App password, and torrent search inquiry in the .py file.
 
 Some email clients allow for App passwords, like Gmail
  You can generate an App password here: https://myaccount.google.com/apppasswords. You would use this App password instead of your regular Gmail password in the script. 
